@@ -1,0 +1,10 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo 
+estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu 
+comprensión.
+
+	* Objetos: es un conjunto de propiedades que estan descritas por un nombre y un valor (key:value).
+	* Propiedades: son una lista de datos como nombres clave con su respectivo valor que se encuentran dentro de un objeto.
+	* Métodos: se le llaman metodos a aquellas funciones que se encuentran dentro de un objeto.
+	* Bucle `for…in`: se utiliza para iterar dentro de cada par de propiedades key:value.
+	* Notación de puntos vs notación de corchetes: ambas se utilizan para llegar hasta una propiedad particular dentro de un objeto.
+      la utilizacion de cada una de estas nociones dependerá de la informacion que dispongamos.

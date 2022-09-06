@@ -1,0 +1,8 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo 
+estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu 
+comprensión.
+
+* `prototype`: es un mecanismo mediante el cual los objetos reciben caracteristicas entre si.
+* _Constructors_ (de Clases): es un metodo especial que nos permite crear e inicializar un objeto creado
+a partir de un archivo. Es indispensable que solo haya un metodo con el nombre constructor, ya que de haber diferentes 
+metodos con el mismo nombre generaria un error.
